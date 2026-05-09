@@ -7,4 +7,4 @@
 
 
 ## 2) Install the script there
-[Click on this link](https://github.com/BadisG/Hide-watched-videos-on-youtube/blob/main/main.user.js)
+[Click on this link](https://github.com/BadisG/Hide-watched-videos-on-youtube/raw/refs/heads/main/main.user.js)
